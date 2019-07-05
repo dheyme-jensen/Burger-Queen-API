@@ -1,0 +1,25 @@
+{
+  "name": "burger-queen-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dheyme-jensen/Burger-Queen-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dheyme-jensen/Burger-Queen-API/issues"
+  },
+  "homepage": "https://github.com/dheyme-jensen/Burger-Queen-API#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sequelize": "^5.8.12",
+    "sequelize-cli": "^5.5.0",
+    "sqlite3": "^4.0.9"
+  }
+}
